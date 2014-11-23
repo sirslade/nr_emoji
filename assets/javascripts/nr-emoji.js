@@ -1,0 +1,22 @@
+(function() {
+  Discourse.Dialect.registerEmoji('crim', '/plugins/nr-emoji/images/Criminal.png');
+  Discourse.Dialect.registerEmoji('credit', '/plugins/nr-emoji/images/Credit.png');
+  Discourse.Dialect.registerEmoji('anarch', '/plugins/nr-emoji/images/Anarch.png');
+  Discourse.Dialect.registerEmoji('mu', '/plugins/nr-emoji/images/MU.png');
+  Discourse.Dialect.registerEmoji('rez', '/plugins/nr-emoji/images/Rez.png');
+  Discourse.Dialect.registerEmoji('recur', '/plugins/nr-emoji/images/recurringcredit.png');
+  Discourse.Dialect.registerEmoji('jinteki2', '/plugins/nr-emoji/images/Jinteki2.png');
+  Discourse.Dialect.registerEmoji('click', '/plugins/nr-emoji/images/Click.png');
+  Discourse.Dialect.registerEmoji('shaper', '/plugins/nr-emoji/images/Shaper-smooth.png');
+  Discourse.Dialect.registerEmoji('3mu', '/plugins/nr-emoji/images/3MU.png');
+  Discourse.Dialect.registerEmoji('trash', '/plugins/nr-emoji/images/Trash.png');
+  Discourse.Dialect.registerEmoji('agenda', '/plugins/nr-emoji/images/agenda.png');
+  Discourse.Dialect.registerEmoji('weyland', '/plugins/nr-emoji/images/weyland.png');
+  Discourse.Dialect.registerEmoji('2mu', '/plugins/nr-emoji/images/2MU.png');
+  Discourse.Dialect.registerEmoji('1mu', '/plugins/nr-emoji/images/1MU.png');
+  Discourse.Dialect.registerEmoji('subroutine', '/plugins/nr-emoji/images/Subroutine.png');
+  Discourse.Dialect.registerEmoji('nbn', '/plugins/nr-emoji/images/NBN.png');
+  Discourse.Dialect.registerEmoji('jinteki', '/plugins/nr-emoji/images/jinteki.png');
+  Discourse.Dialect.registerEmoji('link', '/plugins/nr-emoji/images/link.png');
+  Discourse.Dialect.registerEmoji('hb', '/plugins/nr-emoji/images/hb.png');
+})();
